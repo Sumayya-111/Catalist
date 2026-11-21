@@ -1,0 +1,24 @@
+## Decided
+- The project will be divided into three design phases. [TS3012a: "we'll take this project in three steps"]  
+- Set the selling price at twenty‑five euros. [TS3012a: "Selling price, twenty five Euros. That's for you"]  
+- Basic structure of the remote was decided. [TS3012b: "we have decided more or less the basic structure"]  
+- The team chose rubber as the material. [TS3012c: "so we're definitely going for rubber"]  
+- The team assumed a target of forty‑one units. [TS3012c: "let's just assume we go to forty one"]  
+
+## Changed along the way
+- Wood was dropped as a material option. [TS3012c: "No, wood i wood's not an option"]  
+- The remote color concept was changed to yellow for a flashier look. [TS3012c: "I would take a yellow remote control"]  
+
+## Open actions and owners
+- Nick Broer will review the technical design from the user point of view. (owner B) [TS3012a: "I'm going to uh look at the technical design"]  
+- Speaker D will develop some ideas for the project. (owner D) [TS3012a: "but I've some ideas and I will"]  
+- C will check the referenced item. (owner C) [TS3012b: "I have to check that out, I'm not sure"]  
+- C will try to find the needed information. (owner C) [TS3012b: "I'm going to try to find that out"]  
+- B will draw out some ideas for the next meeting. (owner B) [TS3012b: "I can draw out some ideas"]  
+- A will research cost and space requirements. (owner A) [TS3012b: "Just to do research into both"]  
+- Team members should find out how the product will fall into the market. (owner unclear) [TS3012c: "you should probably find out how the product will fall into the market"]  
+- Create a nice design for the next meeting. (owner unclear) [TS3012c: "a nice nice design for for the next meeting"]  
+- Stay in the meeting room and work out the pending idea. (owner B) [TS3012c: "We need to stay here and work out that"]  
+
+## Open disagreements
+- Uncertainty whether the product should be a single or multi‑remote control. [TS3012a: "Do uh Are we going to introduce a multi remote control?"]  

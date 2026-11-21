@@ -1,0 +1,375 @@
+{
+  "answers": [
+    {
+      "question_id": "Q01",
+      "answer": "Team TS3006 decided to drop speech recognition and keep the LCD screen, noting that the screen still provides at least one innovation.",
+      "citations": [
+        {
+          "meeting_id": "TS3006b",
+          "quote": "about an L_C_D_ screen uh and speech recognition."
+        },
+        {
+          "meeting_id": "TS3006d",
+          "quote": "we dropped the speech recognition. But it has at least one innovation."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "answer": "The team first leaned toward using titanium for the remote’s case, but later switched to a cheaper material because titanium couldn’t be used on the double‑curved shape and the cost needed to be cut.",
+      "citations": [
+        {
+          "meeting_id": "ES2003c",
+          "quote": "you can't have a titanium one for a double curved"
+        },
+        {
+          "meeting_id": "ES2003d",
+          "quote": "this was the one that sacrificed the material for the case"
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "answer": "C was the first to propose replacing the titanium, suggesting to drop the titanium and add plastic instead, and the titanium was ultimately not kept.",
+      "citations": [
+        {
+          "meeting_id": "TS3009c",
+          "quote": "for the front and then titanium for the back."
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "answer": "The team settled on a hybrid power system using batteries together with a solar cell, but when the total costs were tallied the solution proved too expensive and was effectively dropped.",
+      "citations": [
+        {
+          "meeting_id": "TS3011c",
+          "quote": "the energy source is um the batteries and the solar"
+        },
+        {
+          "meeting_id": "TS3011d",
+          "quote": "And costs were twelve fifty. But even now"
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "answer": "They first settled on using a simple battery as the energy source, then later decided on a combination of battery and kinetic energy, and the shift to include kinetic was proposed by speaker C.",
+      "citations": [
+        {
+          "meeting_id": "TS3007b",
+          "quote": "The energy source would be a battery, simple uh battery uh that you can find anywhere."
+        },
+        {
+          "meeting_id": "TS3007c",
+          "quote": "the two basic sources that I found were the best possible were the battery uh versus kinetic"
+        },
+        {
+          "meeting_id": "TS3007c",
+          "quote": "the energy, the combination between battery and kinetic"
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "answer": "The team decided to drop the “prevent the remote getting lost” feature, and the main objection was raised by C, who said it would be technologically difficult because a lost remote would likely be under the settee and could not be located with an infrared signal.",
+      "citations": [
+        {
+          "meeting_id": "ES2008d",
+          "quote": "we've decided not to worry about that for now"
+        },
+        {
+          "meeting_id": "ES2008d",
+          "quote": "if your remote's lost it's probably under the settee and in that case you can't you can't send an infrared sing signal to it"
+        }
+      ]
+    },
+    {
+      "question_id": "Q07",
+      "answer": "The transcript shows that A asked a teammate to find out the extra cost of adding a display (\"you can come up with the price, how much it's cost as extra for uh the display\"), but no figure was later reported in the evidence.",
+      "citations": [
+        {
+          "meeting_id": "IS1008c",
+          "quote": "Then meantime you can come up with the price, how much it's cost as extra for uh the display."
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "answer": "The provided meeting transcripts contain no mention of a health complaint about remote controls, so we cannot identify who raised it, what it was, or how the design responded.",
+      "citations": [
+        {
+          "meeting_id": "ES2007a",
+          "quote": "Okay. Right, who's got experiences with remote controls then? Pretty much everybody."
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "answer": "Team IS1002 initially talked about a selling price of twenty‑five euros, later moved to a higher range of roughly fifty to sixty euros, and it was speaker D who most strongly advocated for a higher, exclusive price.",
+      "citations": [
+        {
+          "meeting_id": "IS1002b",
+          "quote": "Twenty-five Euros is the selling price, we really have to innovate here I guess."
+        },
+        {
+          "meeting_id": "IS1002b",
+          "quote": "let's sell this wholesale for for fifty Euros, sixty Euros"
+        },
+        {
+          "meeting_id": "IS1002b",
+          "quote": "I would market this product it at eighty-nine Euros and come up with some really beautiful exterior design"
+        }
+      ]
+    },
+    {
+      "question_id": "Q10",
+      "answer": "Team TS3003 decided to design the remote control for elderly users – roughly people over sixty or “grandfathers and grandmothers” – because older people tend to be more careful with remote controls and are less interested in fancy features, making them a distinct target market.",
+      "citations": [
+        {
+          "meeting_id": "TS3003c",
+          "quote": "make a good design for all the grandfathers and grandmothers, I think"
+        },
+        {
+          "meeting_id": "TS3003b",
+          "quote": "elderly people would be a little bit more careful with their remote controls than youngsters"
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "answer": "The project manager asked whether the new requirement that the remote be used only for television meant it should not support DVD or internet functions, and later clarified that the remote will not include DVD capability.",
+      "citations": [
+        {
+          "meeting_id": "ES2011b",
+          "quote": "I'm not sure if they meant o onl use only for television as in not for D_V_D_ or just not internet type things. So I'll I'll check that"
+        },
+        {
+          "meeting_id": "ES2011c",
+          "quote": "We're, um, we're actually not having D_V_D_, that was one of th I I was sorry"
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "answer": "The team decided to drop voice‑recognition from the final remote because it was judged too costly, but they argued that the remote’s distinctive shape would still make it easy to locate.",
+      "citations": [
+        {
+          "meeting_id": "ES2004d",
+          "quote": "if we take voice recognition out"
+        },
+        {
+          "meeting_id": "ES2004b",
+          "quote": "speech recognition thing that pr it'd probably be quite expensive to incorporate an entire speech recognition thing"
+        },
+        {
+          "meeting_id": "ES2004d",
+          "quote": "our object is so distinctive that that in itself is gonna make it easier to locate"
+        }
+      ]
+    },
+    {
+      "question_id": "Q13",
+      "answer": "Speech recognition was not included in their final design, and the last time they reversed their position on it was in meeting TS3004d.",
+      "citations": [
+        {
+          "meeting_id": "TS3004c",
+          "quote": "Can we just put it speech recognition in it as well, okay?"
+        },
+        {
+          "meeting_id": "TS3004d",
+          "quote": "But it's for the next team. We don't have to do that."
+        }
+      ]
+    },
+    {
+      "question_id": "Q14",
+      "answer": "The team’s final cost total was seven point six, and the speech‑recognition feature that was left pending further cost research was not reflected in that total.",
+      "citations": [
+        {
+          "meeting_id": "IS1009c",
+          "quote": "Okay, so why don't we put down speech recognition if possible pending some more research"
+        },
+        {
+          "meeting_id": "IS1009d",
+          "quote": "Okay. Total seven point six whatever that means."
+        }
+      ]
+    },
+    {
+      "question_id": "Q15",
+      "answer": "Their first full costing came to fifteen point five euros, the budget limit is not stated in the evidence, and they fixed the over‑run by removing the speech‑recognition feature.",
+      "citations": [
+        {
+          "meeting_id": "ES2016d",
+          "quote": "our total is fifteen point five. Which I believe is"
+        },
+        {
+          "meeting_id": "ES2016d",
+          "quote": "I'd say two. With the speech recognition, which of course may be changed depending on budget."
+        }
+      ]
+    },
+    {
+      "question_id": "Q16",
+      "answer": "The project manager pushed for a joystick navigation control, but the final costed design settled on a basic remote‑control button layout and the team gave up the LCD screen to stay within budget.",
+      "citations": [
+        {
+          "meeting_id": "TS3010c",
+          "quote": "I think a joystick is better. A small one."
+        },
+        {
+          "meeting_id": "TS3010c",
+          "quote": "we have just a basic uh uh remote control"
+        },
+        {
+          "meeting_id": "TS3010c",
+          "quote": "budget is too low to use and an L_C_D_"
+        }
+      ]
+    },
+    {
+      "question_id": "Q17",
+      "answer": "The touch screen was dropped in meeting ES2009c, where the team decided to keep voice recognition instead, and they had estimated the touch screen would cost upwards of seventeen fifty Euro per remote.",
+      "citations": [
+        {
+          "meeting_id": "ES2009c",
+          "quote": "Okay. Sorted. We will omit the touch screen in favour of voice recognition."
+        },
+        {
+          "meeting_id": "ES2009c",
+          "quote": "My estimate is that in order to incorporate touch screen technology it's gonna cost us upwards of seventeen fifty Euro per remote"
+        }
+      ]
+    },
+    {
+      "question_id": "Q18",
+      "answer": "Team ES2014 first planned to use speech recognition to locate a lost remote, then changed to a dedicated finder function, and A suggested how the new version should be presented to buyers.",
+      "citations": [
+        {
+          "meeting_id": "ES2014b",
+          "quote": "we could maybe think about using speech recogniti recognition as a way to find the remote control if it's lost"
+        },
+        {
+          "meeting_id": "ES2014c",
+          "quote": "the finder function rather than as a speech function to find your remote"
+        },
+        {
+          "meeting_id": "ES2014b",
+          "quote": "so do we want to do the presentation first"
+        }
+      ]
+    },
+    {
+      "question_id": "Q19",
+      "answer": "The team initially chose wood as the natural material for the case, then switched to a pineapple case, and the switch was suggested by A.",
+      "citations": [
+        {
+          "meeting_id": "IS1003c",
+          "quote": "Th The feeling is natural, so maybe we can stay with wood."
+        },
+        {
+          "meeting_id": "IS1003d",
+          "quote": "it's the pineapple control remote control. It's a pineapple now, it has changed."
+        }
+      ]
+    },
+    {
+      "question_id": "Q20",
+      "answer": "Team member A said they would look into whether the remote should only have television buttons, and later reported that the decision was to focus solely on television functionality.",
+      "citations": [
+        {
+          "meeting_id": "ES2008a",
+          "quote": "It's a good question. Um. I'll look into that."
+        },
+        {
+          "meeting_id": "ES2008b",
+          "quote": "Just for television. That's what we're focused on."
+        }
+      ]
+    },
+    {
+      "question_id": "Q21",
+      "answer": "Member C said they would check component prices; they later reported that a version with all functions would cost about fifteen dollars, and the team decided to drop the LCD, presenting a version without it.",
+      "citations": [
+        {
+          "meeting_id": "IS1007c",
+          "quote": "So for my part I will check the prices the um the prices difference uh of what to use"
+        },
+        {
+          "meeting_id": "IS1007d",
+          "quote": "It's about so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars"
+        },
+        {
+          "meeting_id": "IS1007d",
+          "quote": "Here I present another version without the L_C_D_"
+        }
+      ]
+    },
+    {
+      "question_id": "Q22",
+      "answer": "B suggested using a lithium battery, A preferred triple‑A batteries because they would require more than one battery, and the team ultimately chose a lithium battery.",
+      "citations": [
+        {
+          "meeting_id": "ES2010c",
+          "quote": "we could do one small lithium, 'cause you know the lithium batteries"
+        },
+        {
+          "meeting_id": "ES2010d",
+          "quote": "we need to make a final call on if it's a lithium or do we wanna go triple A_s, 'cause triple A_s we're gonna have"
+        },
+        {
+          "meeting_id": "ES2010d",
+          "quote": "Yeah, let's let's do a lithium."
+        }
+      ]
+    },
+    {
+      "question_id": "Q23",
+      "answer": "They kept the headline features of voice recognition and an LCD display, and simplified the interface by dropping scrolling in favor of push‑button controls to stay under budget.",
+      "citations": [
+        {
+          "meeting_id": "ES2006d",
+          "quote": "we keep voice recognition, we keep L_C_D_ display. We instead of having scrolling we we just push the buttons"
+        },
+        {
+          "meeting_id": "ES2006d",
+          "quote": "we're way under budget and we'll"
+        }
+      ]
+    },
+    {
+      "question_id": "Q24",
+      "answer": "Team ES2002 first agreed on using a battery as the power source. Their project manager liked the idea of adding backlighting to the buttons with internal LEDs. In the final design they ended up using only a battery, dropping the kinetic power option.",
+      "citations": [
+        {
+          "meeting_id": "ES2002b",
+          "quote": "you need some power source. 'Kay, a battery or something, to keep it going"
+        },
+        {
+          "meeting_id": "ES2002d",
+          "quote": "maybe backlighting the buttons with some internal L_E_D_s"
+        },
+        {
+          "meeting_id": "ES2002d",
+          "quote": "Do we have kinetic as well? No. Okay, just battery"
+        }
+      ]
+    },
+    {
+      "question_id": "Q25",
+      "answer": "The team decided not to shape the remote itself like a fruit or vegetable, opting instead to use printed fruit designs (or colours) because printing or using different colours is much cheaper than changing the remote’s shape.",
+      "citations": [
+        {
+          "meeting_id": "ES2011d",
+          "quote": "Which is why printing might be like just printing the fruit on fruit."
+        },
+        {
+          "meeting_id": "ES2011d",
+          "quote": "I bet having different colours is a lot cheaper than having different shapes too."
+        }
+      ]
+    }
+  ],
+  "brief": "## Decided\n- The project will be divided into three design phases. [TS3012a: \"we'll take this project in three steps\"]  \n- Set the selling price at twenty‑five euros. [TS3012a: \"Selling price, twenty five Euros. That's for you\"]  \n- Basic structure of the remote was decided. [TS3012b: \"we have decided more or less the basic structure\"]  \n- The team chose rubber as the material. [TS3012c: \"so we're definitely going for rubber\"]  \n- The team assumed a target of forty‑one units. [TS3012c: \"let's just assume we go to forty one\"]  \n\n## Changed along the way\n- Wood was dropped as a material option. [TS3012c: \"No, wood i wood's not an option\"]  \n- The remote color concept was changed to yellow for a flashier look. [TS3012c: \"I would take a yellow remote control\"]  \n\n## Open actions and owners\n- Nick Broer will review the technical design from the user point of view. (owner B) [TS3012a: \"I'm going to uh look at the technical design\"]  \n- Speaker D will develop some ideas for the project. (owner D) [TS3012a: \"but I've some ideas and I will\"]  \n- C will check the referenced item. (owner C) [TS3012b: \"I have to check that out, I'm not sure\"]  \n- C will try to find the needed information. (owner C) [TS3012b: \"I'm going to try to find that out\"]  \n- B will draw out some ideas for the next meeting. (owner B) [TS3012b: \"I can draw out some ideas\"]  \n- A will research cost and space requirements. (owner A) [TS3012b: \"Just to do research into both\"]  \n- Team members should find out how the product will fall into the market. (owner unclear) [TS3012c: \"you should probably find out how the product will fall into the market\"]  \n- Create a nice design for the next meeting. (owner unclear) [TS3012c: \"a nice nice design for for the next meeting\"]  \n- Stay in the meeting room and work out the pending idea. (owner B) [TS3012c: \"We need to stay here and work out that\"]  \n\n## Open disagreements\n- Uncertainty whether the product should be a single or multi‑remote control. [TS3012a: \"Do uh Are we going to introduce a multi remote control?\"]  "
+}

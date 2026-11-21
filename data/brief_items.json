@@ -1,0 +1,210 @@
+[
+  {
+    "meeting_id": "TS3012a",
+    "type": "decision",
+    "text": "The project will be divided into three design phases.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "we'll take this project in three steps"
+  },
+  {
+    "meeting_id": "TS3012a",
+    "type": "decision",
+    "text": "Set the selling price at twenty‑five euros.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "Selling price, twenty five Euros. That's for you"
+  },
+  {
+    "meeting_id": "TS3012a",
+    "type": "decision",
+    "text": "Next meeting will be in thirty minutes.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "we'll just meet back in here thirty minutes"
+  },
+  {
+    "meeting_id": "TS3012a",
+    "type": "decision",
+    "text": "The remote should be usable by almost everyone, including disabled people.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "we want almost everyone to be using it"
+  },
+  {
+    "meeting_id": "TS3012a",
+    "type": "action",
+    "text": "Nick Broer will review the technical design from the user point of view.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "I'm going to uh look at the technical design"
+  },
+  {
+    "meeting_id": "TS3012a",
+    "type": "action",
+    "text": "Speaker D will develop some ideas for the project.",
+    "owner": "D",
+    "said_by": "D",
+    "quote": "but I've some ideas and I will"
+  },
+  {
+    "meeting_id": "TS3012a",
+    "type": "disagreement",
+    "text": "A says the interface looks smooth, B says it is not responsive.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "It's not really that responsive, no."
+  },
+  {
+    "meeting_id": "TS3012a",
+    "type": "disagreement",
+    "text": "Uncertainty whether the product should be a single or multi‑remote control.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "Do uh Are we going to introduce a multi remote control?"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "decision",
+    "text": "Basic structure of the remote was decided.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "we have decided more or less the basic structure"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "action",
+    "text": "C will check the referenced item.",
+    "owner": "C",
+    "said_by": "C",
+    "quote": "I have to check that out, I'm not sure"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "action",
+    "text": "C will try to find the needed information.",
+    "owner": "C",
+    "said_by": "C",
+    "quote": "I'm going to try to find that out"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "action",
+    "text": "B will draw out some ideas for the next meeting.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "I can draw out some ideas"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "action",
+    "text": "B will place the remaining buttons in the design.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "I can put the other buttons in"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "decision",
+    "text": "A believes the feature should not be implemented yet.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "I don't think it should be implemented in a remote control yet"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "disagreement",
+    "text": "A thinks the feature should not be added now, while others want to pursue it.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "I don't think it should be implemented in a remote control yet"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "change",
+    "text": "The current design is only a general idea, not final.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "This is not the final design"
+  },
+  {
+    "meeting_id": "TS3012b",
+    "type": "action",
+    "text": "A will research cost and space requirements.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "Just to do research into both"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "decision",
+    "text": "The team chose rubber as the material.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "so we're definitely going for rubber"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "decision",
+    "text": "The team assumed a target of forty‑one units.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "let's just assume we go to forty one"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "decision",
+    "text": "Voice recognition will be included because most users want it.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "More than sixty percent of the people would like voice recognition"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "change",
+    "text": "The previously considered option was removed because it is not on the list.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "it's not in the list. So we cannot"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "change",
+    "text": "Wood was dropped as a material option.",
+    "owner": "A",
+    "said_by": "A",
+    "quote": "No, wood i wood's not an option"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "change",
+    "text": "The remote color concept was changed to yellow for a flashier look.",
+    "owner": "C",
+    "said_by": "C",
+    "quote": "I would take a yellow remote control"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "action",
+    "text": "Team members should find out how the product will fall into the market.",
+    "owner": "unclear",
+    "said_by": "A",
+    "quote": "you should probably find out how the product will fall into the market"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "action",
+    "text": "Create a nice design for the next meeting.",
+    "owner": "unclear",
+    "said_by": "A",
+    "quote": "a nice nice design for for the next meeting"
+  },
+  {
+    "meeting_id": "TS3012c",
+    "type": "action",
+    "text": "Stay in the meeting room and work out the pending idea.",
+    "owner": "B",
+    "said_by": "B",
+    "quote": "We need to stay here and work out that"
+  }
+]

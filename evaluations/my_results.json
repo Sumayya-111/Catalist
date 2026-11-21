@@ -1,0 +1,187 @@
+[
+  {
+    "question_id": "M01",
+    "team": "TS3008",
+    "question": "Team TS3008 argued about rechargeable versus ordinary batteries. In their last meeting someone suggested combining battery and kinetic power. How did the team react to that suggestion?",
+    "my_answer": "Speaker C suggested doing both, battery and kinetic, in the remote, but speakers D and A rejected it.",
+    "agent_answer": "When the idea of combining a battery with kinetic power was proposed, the team rejected it, insisting on using only one power source.",
+    "citations": [
+      {
+        "meeting_id": "TS3008d",
+        "quote": "Maybe we can do it both",
+        "valid": true
+      },
+      {
+        "meeting_id": "TS3008d",
+        "quote": "Yeah, but only kinetic, then you",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M02",
+    "team": "TS3008",
+    "question": "How did Team TS3008's plan for the remote's materials develop between meeting c and meeting d?",
+    "my_answer": "In meeting c they talked about a plastic enclosure with soft rubber pads around it, possibly in two colours. By meeting d the plan was a strip of rubber on the side and a hard plastic middle with a light behind it.",
+    "agent_answer": "In meeting c the team defined the remote’s material scheme as a hard‑plastic case with soft‑rubber components and rubber buttons, while dismissing exotic options. By meeting d they reiterated the need for rubber buttons and a special (but inexpensive) material, focusing on a cheap remote rather than expanding the material palette.",
+    "citations": [
+      {
+        "meeting_id": "TS3008c",
+        "quote": "it has to be solid uh in hard material",
+        "valid": true
+      },
+      {
+        "meeting_id": "TS3008d",
+        "quote": "special material r also, because i has rubber",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M03",
+    "team": "ES2012",
+    "question": "One member of Team ES2012 first wanted a rechargeable battery or a battery dock. What energy source did the team decide on by meeting c, and what reasons were given?",
+    "my_answer": "They decided on a long-term battery, for simplicity of manufacturing and maintenance, since a fashion item would likely be replaced before the battery runs out. They aimed for at least five to ten years of life and a five-year guarantee.",
+    "agent_answer": "The team ultimately chose a long‑term battery as the energy source, citing that it simplifies manufacturing and maintenance and fits the fashion‑statement approach because users will replace it before it runs out, allowing a guaranteed lifespan of several years.",
+    "citations": [
+      {
+        "meeting_id": "ES2012b",
+        "quote": "perhaps some sort of rechargeable battery or a battery dock you could place it in",
+        "valid": true
+      },
+      {
+        "meeting_id": "ES2012c",
+        "quote": "we will go for a a long term battery source",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M04",
+    "team": "ES2012",
+    "question": "Team ES2012 chose a long-life battery partly because the remote would be a fashion statement. What did they decide about the case and covers in their last meeting?",
+    "my_answer": "A lightweight plastic case in a plain light grey, so that people would want to buy covers, with the covers made of a stretchy rubbery material like iPod covers.",
+    "agent_answer": "In their final meeting the team decided the remote would have a lightweight plastic case in a neutral grey, with interchangeable rubbery iPod‑style covers that simply stretch over the device.",
+    "citations": [
+      {
+        "meeting_id": "ES2012d",
+        "quote": "And so we figured it would be kind of you know a light weight plastic, just kind of a light non-descript grey so that people'll wanna buy the covers and then the covers will be that sort of rubbery material like they make iPod covers, so they kinda just stretch over.",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M05",
+    "team": "IS1004",
+    "question": "Which materials did Team IS1004 consider for the case, which did they choose, and why?",
+    "my_answer": "They considered plastic, wood and titanium (and rubber). They chose plastic because it brings the cost down, and in the last meeting they switched from rubber to plastic to get on budget.",
+    "agent_answer": "The team looked at several case materials – wood, titanium and others – but settled on plastic because it can be formed into a double‑curve shape and keeps the cost down.",
+    "citations": [
+      {
+        "meeting_id": "IS1004c",
+        "quote": "with plastic you can have double curve but with uh certain other materials we cannot have double curve",
+        "valid": true
+      },
+      {
+        "meeting_id": "IS1004c",
+        "quote": "there were many other materials like wood, titanium and all those things, but plastic is I think is the most appropriate one, it'll bring the cost down",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M06",
+    "team": "IS1004",
+    "question": "Team IS1004 left the LCD question open at the end of their second meeting. What did they decide about it in their final meeting?",
+    "my_answer": "They decided against having an LCD, and agreed that this also meant no button supplements.",
+    "agent_answer": "In the final meeting the team confirmed that they would not include an LCD screen on the remote control.",
+    "citations": [
+      {
+        "meeting_id": "IS1004c",
+        "quote": "Okay. So i it looks like we're going completely to forget about the L_C_D_ thing.",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M07",
+    "team": "IS1004",
+    "question": "How did Team IS1004's plan for a scroll wheel and push buttons develop from meeting b to meeting d?",
+    "my_answer": "In meeting b one member pointed to a competitor's navigation wheel. In meeting c another said the remote would have both a scroll interface and buttons and that this would not cost much. By meeting d the design was described as two push buttons and two scrollers.",
+    "agent_answer": "In meeting b the team first highlighted the scroll wheel as a handy way to change channels and even considered using it without an LCD screen, while noting push‑button usage rates. By meeting c they expanded the idea to two scroll wheels, added a turbo button, and kept push buttons for traditional users, still without an LCD. In meeting d they settled on a final layout of two scroll wheels and three push buttons, discussing but not adopting an integrated scroll‑wheel‑push button.",
+    "citations": [
+      {
+        "meeting_id": "IS1004b",
+        "quote": "scroll wheel is actually pretty a pretty handy way of of changing the channel",
+        "valid": true
+      },
+      {
+        "meeting_id": "IS1004c",
+        "quote": "we could have actually two scroll wheels, 'cause I think the scroll wheel is a fairly",
+        "valid": true
+      },
+      {
+        "meeting_id": "IS1004d",
+        "quote": "We have two scroll, and we have three push buttons.",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M08",
+    "team": "TS3008",
+    "question": "In their last meeting, how did Team TS3008 respond to the idea of a button that makes the remote beep so it can be found?",
+    "my_answer": "One member proposed a button to retrieve the remote so that it beeps, using wireless technology. Another objected that they had not looked at the cost of the speaker and other parts, and that it was not realistic.",
+    "agent_answer": "In their last meeting the team mentioned a “button to retrieve it, so it will beep” and responded with a brief affirmative, indicating acceptance of the idea.",
+    "citations": [
+      {
+        "meeting_id": "TS3008d",
+        "quote": "wi with a button to retrieve it, so it will beep",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M09",
+    "team": "ES2012",
+    "question": "How did Team ES2012's thinking about buttons develop from meeting b to meeting d?",
+    "my_answer": "In meeting b one member said the remote might need no buttons at all, only channel, volume and on/off controls, plus voice recognition. By meeting d the layout had a scroll for volume, buttons for channel up and down, a power key, a menu key and a microphone.",
+    "agent_answer": "In meeting b the team was still weighing whether to keep buttons—some ideas included concealed or fewer buttons and even a dual voice‑button approach, noting that “the advantage of doing away the buttons altogether is it makes the thing cheaper” (ES2012b, A). By meeting d the consensus had shifted toward minimizing buttons, emphasizing that “Less buttons so it must be” and that users would benefit from “not having to learn … a million buttons” (ES2012d, A; ES2012d, C).",
+    "citations": [
+      {
+        "meeting_id": "ES2012b",
+        "quote": "The advantage of doing away the buttons altogether is it makes the thing cheaper.",
+        "valid": true
+      },
+      {
+        "meeting_id": "ES2012d",
+        "quote": "Less buttons so it must be.",
+        "valid": true
+      },
+      {
+        "meeting_id": "ES2012d",
+        "quote": "not having to learn to programme and not having you know a million buttons.",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M10",
+    "team": "TS3008",
+    "question": "What did Team TS3008 say about the cost of the recharger or docking station, and how was it treated in the final cost list?",
+    "my_answer": "In meeting b one member said the recharger could be skipped if it was too costly, though the base unit would still need a battery. In meeting d the docking station and its costs were left out of the cost list, which used a single battery.",
+    "agent_answer": "The team said a rechargeable version would cost about twelve‑and‑a‑half euros, and they treated that expense as a one‑time or separate cost that would not be included in the production cost list.",
+    "citations": [
+      {
+        "meeting_id": "TS3008b",
+        "quote": "It should only cost twelve and a half Euros, of course.",
+        "valid": true
+      },
+      {
+        "meeting_id": "TS3008b",
+        "quote": "that's not something i that's in the production cost",
+        "valid": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+# secrets
+.env
+
+# environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# my working files, not part of the submission
+scratch/
+outputs/
+
+# editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# logs, backups and error dumps
+*.log
+*.backup.json
+*_backup.json
+data/test_errors.json
