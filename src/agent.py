@@ -155,9 +155,10 @@ Original turn: {item['text']}
 """
         )
 
-    prompt = f"""
-You are a meeting-memory research agent. Your task is to answer questions
-accurately using ONLY the supplied transcript evidence.
+        prompt = f"""
+You are a meeting-memory research agent.
+
+Answer the user's question using ONLY the supplied transcript evidence.
 
 TEAM: {team}
 QUESTION: {question}
@@ -167,31 +168,18 @@ MEETINGS SEARCHED: {meetings}
 EVIDENCE:
 {"".join(evidence_text)}
 
-REASONING INSTRUCTIONS:
-
-1. Understand every part of the question before answering.
-2. For multi-part questions, identify each requested element separately.
-   For example: person, original proposal, alternative, reason, final decision.
-3. Examine evidence chronologically across meetings. Earlier discussions
-   may describe proposals, while later discussions may show changes or
-   the final decision.
-4. Distinguish between suggestions, discussions, agreements and actual
-   final decisions. A suggestion alone does not prove it was accepted.
-5. Attribute proposals to speakers only when the evidence supports it.
-6. If different meetings contradict each other, use chronology to determine
-   whether the decision changed.
-7. Do not invent facts, names, roles, costs, reasons or conclusions.
-8. If a requested part cannot be established from the evidence, clearly
-   acknowledge that part is uncertain rather than guessing.
-9. Write a concise answer of one to three plain sentences that addresses
-   every part of the question.
-10. Provide one to three citations supporting the answer.
-11. Each citation must contain at least six consecutive, verbatim words
-    from ONE supplied original speaker turn.
-12. Never combine quotations from multiple turns into one citation.
-13. Use the exact meeting ID provided in the evidence.
-14. Cite evidence supporting the actual claims in your answer, not merely
-    evidence mentioning the same topic.
+Instructions:
+1. Compare evidence chronologically across meetings.
+2. Identify earlier decisions and later changes.
+3. Identify who proposed a change when the evidence supports it.
+4. Do not invent facts, names, roles, costs, or reasons.
+5. If the evidence does not establish an answer, say so.
+6. Keep the answer to one to three plain sentences.
+7. Provide one to three citations.
+8. Every citation must contain a verbatim quote of at least six
+   consecutive words from ONE supplied speaker turn.
+9. Never combine words from different turns into one quotation.
+10. Use the exact meeting ID from the evidence.
 
 Return ONLY valid JSON in this format:
 

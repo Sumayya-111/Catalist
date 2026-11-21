@@ -1,0 +1,97 @@
+[
+  {
+    "question_id": "M01",
+    "team": "TS3008",
+    "question": "Team TS3008 argued about rechargeable versus ordinary batteries. In their last meeting someone suggested combining battery and kinetic power. How did the team react to that suggestion?",
+    "my_answer": "Speaker C suggested doing both, battery and kinetic, in the remote, but speakers D and A rejected it.",
+    "agent_answer": "When C suggested using both a battery and kinetic power, the team rejected the idea; D responded later with “Yeah, but only kinetic, then you gotta…”, indicating they did not want to combine the two power sources.",
+    "citations": [
+      {
+        "meeting_id": "TS3008d",
+        "quote": "Maybe we can do it both uh in",
+        "valid": true
+      },
+      {
+        "meeting_id": "TS3008d",
+        "quote": "Yeah, but only kinetic, then you gotta",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M02",
+    "team": "TS3008",
+    "question": "How did Team TS3008's plan for the remote's materials develop between meeting c and meeting d?",
+    "my_answer": "In meeting c they talked about a plastic enclosure with soft rubber pads around it, possibly in two colours. By meeting d the plan was a strip of rubber on the side and a hard plastic middle with a light behind it.",
+    "agent_answer": "In meeting c the team proposed a hard‑plastic case with soft‑rubber (rubber‑covered) buttons – noting the case must be solid hard plastic and the buttons soft rubber – and in meeting d they confirmed this material choice, referring to the remote as a special design whose material is a key feature.",
+    "citations": [
+      {
+        "meeting_id": "TS3008c",
+        "quote": "it has to be solid uh in hard material like uh hard plastic",
+        "valid": true
+      },
+      {
+        "meeting_id": "TS3008c",
+        "quote": "the buttons has to be uh solid too, and the material is soft rubber",
+        "valid": true
+      },
+      {
+        "meeting_id": "TS3008d",
+        "quote": "Yeah, it still is a special remote control cons uh you know, wi its form is special and material",
+        "valid": false
+      }
+    ]
+  },
+  {
+    "question_id": "M04",
+    "team": "ES2012",
+    "question": "Team ES2012 chose a long-life battery partly because the remote would be a fashion statement. What did they decide about the case and covers in their last meeting?",
+    "my_answer": "A lightweight plastic case in a plain light grey, so that people would want to buy covers, with the covers made of a stretchy rubbery material like iPod covers.",
+    "agent_answer": "In their final meeting they agreed to use a light‑weight plastic case in a neutral grey colour and to sell interchangeable rubbery, stretch‑over covers that snap onto the case like iPod skins.",
+    "citations": [
+      {
+        "meeting_id": "ES2012d",
+        "quote": "a light weight plastic, just kind of a light non-descript grey so that people'll wanna buy the covers",
+        "valid": true
+      },
+      {
+        "meeting_id": "ES2012d",
+        "quote": "the covers will be that sort of rubbery material like they make iPod covers, so they kinda just stretch over",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M05",
+    "team": "IS1004",
+    "question": "Which materials did Team IS1004 consider for the case, which did they choose, and why?",
+    "my_answer": "They considered plastic, wood and titanium (and rubber). They chose plastic because it brings the cost down, and in the last meeting they switched from rubber to plastic to get on budget.",
+    "agent_answer": "The team discussed several case materials – wood, titanium and other options – but decided on plastic, because plastic can accommodate the required double‑curve shape and keeps the cost down.",
+    "citations": [
+      {
+        "meeting_id": "IS1004c",
+        "quote": "there were many other materials like wood, titanium and all those things, but plastic is I think is the most appropriate one, it'll bring the cost down",
+        "valid": true
+      },
+      {
+        "meeting_id": "IS1004c",
+        "quote": "there are different materials, with plastic you can have double curve but with uh certain other materials we cannot have double curve",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "question_id": "M06",
+    "team": "IS1004",
+    "question": "Team IS1004 left the LCD question open at the end of their second meeting. What did they decide about it in their final meeting?",
+    "my_answer": "They decided against having an LCD, and agreed that this also meant no button supplements.",
+    "agent_answer": "The transcript of the final meeting (IS1004d) contains no discussion or decision about the LCD, so the team’s stance on the LCD is not recorded in that meeting.",
+    "citations": [
+      {
+        "meeting_id": "IS1004d",
+        "quote": "Yeah so uh following our decision to uh make a yellow well to make a banana",
+        "valid": true
+      }
+    ]
+  }
+]
