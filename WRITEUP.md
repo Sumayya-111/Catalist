@@ -49,6 +49,13 @@ referring back to things without naming them is not handled.
   results worse: more text sent, fewer answer-bearing turns found, one request
   over the token cap. I measured it with a retrieval check and reverted it.
 
+
+- **Retrieval metric vs answer quality:** a wider net with a character budget
+  raised the answer-bearing turns reaching the model from 9 to 14 of 19 and
+  matched the best score on my own questions, yet looked worse on the
+  company's. Finding more of the right turns is not the same as answering
+  better, and a test set I had tuned on misled me. I kept the simpler version.
+
 ## Proof: my own questions and failures
 I wrote 10 questions on teams the company did not use (ES2012, IS1004, TS3008)
 and checked the answers in the transcripts. First version: 1 right, 5 partly,

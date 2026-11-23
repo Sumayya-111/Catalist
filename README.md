@@ -117,6 +117,18 @@ stopped and resumed. `export_answers.py`, `ask.py` and `run_eval.py` import
   it could answer it did worse (M06 became wrong), one request was too large
   for the token cap (M03), and fewer answer-bearing turns reached the model
   (3 of 8 against 4 of 8). The quota ran out before it could be tested fully.
+
+- **A wider-net variant did not generalise either.** Taking 12 turns per
+  meeting under a fixed character budget (long turns cut to 400 characters)
+  raised the answer-bearing turns reaching the model from 9 to 14 of 19 and
+  scored 5 right, 4 partly, 1 uncertain on my own 10 questions
+  (`evaluations/my_results.v4_wider_net.json`). On the company's questions it
+  looked worse than the first version: in the 19 it answered
+  (`evaluations/company_25_v4_partial.json`), Q05, Q10, Q13, Q17 and Q18
+  changed to answers I believe are wrong, while Q08 and Q15 improved. My own
+  questions were tuned on, so I kept the simpler version and did not replace
+  `answers.json`.
+
 - **I have not measured accuracy on the 25** (the answers are held back).
   Reading them myself, many multi-part answers are only partly right.
 - **Three wrong answers in `answers.json`** (my diagnosis, not fully verified):
